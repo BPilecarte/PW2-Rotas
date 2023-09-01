@@ -1,5 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+ *{
+  font-family: 'Poppins', sans-serif;
+ }
+
 nav
 {
-  background-color: #899fff;
+  background-color: #91643A;
 }
 
+button{
+  color: #311a05;
+  background-color: #D9D2CA;
+  border: none;
+  border-radius: 5px;
+}

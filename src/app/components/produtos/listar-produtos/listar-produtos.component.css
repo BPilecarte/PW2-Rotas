@@ -1,0 +1,32 @@
+::ng-deep body{
+  overflow-y: hidden;
+  overflow-x: hidden ;
+}
+
+.titulo{
+  margin-left: 3%;
+  width: 400px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.titulo img{
+  height: 40px;
+  width: 40px;
+}
+
+.products{
+  width: 800px;
+  margin-left: 110;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 15%;
+  justify-content: space-between;
+}
+
+.products img{
+  height: 200px;
+  width: 200px;
+}

@@ -16,17 +16,21 @@
 }
 
 .products{
-  width: 800px;
-  margin-left: 110;
+  width: 900px;
+  margin-left: 550px;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  margin-top: 15%;
+  margin-top: 11%;
   justify-content: space-between;
 }
 
-.products img{
-  height: 200px;
-  width: 200px;
+img{
+  border-radius: 20px 20px 0 0;
 }
+
+.card{
+  border-radius: 20px;
+}
+
